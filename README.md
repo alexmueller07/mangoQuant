@@ -4,6 +4,7 @@
 MangoQuant is a **quantitative research framework** for modeling and trading mango commodity prices using time-series feature engineering, regularized regression models, and disciplined risk management.
 
 ## PRESENTATION: https://docs.google.com/presentation/d/17l1LMqoJQXy-SG0KYzmLTlTCudXaA0Hv1zekz3wimHs/edit?usp=sharing
+
 The project explores a simple question:
 
 > Can weak predictive signals in agricultural commodity prices be transformed into a systematic trading strategy?
